@@ -7,6 +7,7 @@
 
 - <b>Master of Science - Healthcare Administration | Walden University - Minneapolis, MN   –2019</b>
 - <b>Bachelor of Science - Healthcare Administration | Francis Marion University - Florence, SC – 2016</b>
+- <b>Data Analytics- Goodwill University-Charlotte, NC - 2024</b>
 
 <h2>PROJECT-1</h2>
 
