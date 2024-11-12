@@ -17,8 +17,8 @@
 
 - Built a data analysis visual dashboard using Employee information from a company.  Data used was: employees salary, department name and location</b>
 - 
-<h2> 🤳 Connect with me:</h2>on LinkedIn www.linkedin.com/in/nadine-smith-mha-876171145
-<h2>- 🌱 I’m currently upskilling in SQL, Excel, PowerBI and Python at Goodwill University.</h2>
+<h2> 🤳 Connect with me:</h2>-LinkedIn www.linkedin.com/in/nadine-smith-mha-876171145
+<h2>🌱 I’m currently upskilling in SQL, Excel, PowerBI and Python at Goodwill University.</h2>
 <h2>💞️ I’m looking for a role where I can bring my love for data analysis and Agile project management to a company that really values innovation and finding better ways to get things done.</h2>
 
 <!---
